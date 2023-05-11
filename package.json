@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yishnu96/Habit-Tracker.git"
+    "url": "https://github.com/VutukuriRaviteja/habbittracker.git"
   },
   "keywords": [
     "Habit-Tracker",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/VutukuriRaviteja/habbittracker/issues"
   },
-  "homepage": "https://github.com/VutukuriRaviteja/habbittracker/new/maine",
+  "homepage": "https://github.com/VutukuriRaviteja/habbittracker/blob/main/README.md",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
